@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>De Humanae Mentis Απάθεια</title>
+    <author>Antonius Guilielmus Amo</author>
+   </titleStmt>
+   <publicationStmt>
+    <availability status="free" />
+    <date when="1734-04">Anno MDCCXXXIV Mense Aprile</date>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>
+     <title>De Humanae Mentis Απάθεια</title>
+     <author>Antonius Guilielmus Amo</author>
+     <date when="1734-04">Anno MDCCXXXIV Mense Aprile</date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <titlePage>
+    <docTitle>
+     <titlePart type="desc">Dissertatio Inauguralis Philosophica</titlePart>
+     <titlePart type="main">De Humanae Mentis Απάθεια</titlePart>
+     <titlePart type="sub">
+      <l>Seu</l>
+      <l>Sensionis Ac Facultatis</l>
+      <l>Sentiendi In Mente Humana</l>
+      <l>Absentia</l>
+      <l>Et</l>
+      <l>Earum In Corpore Nostro</l>
+      <l>Organico Ac Vivo Praesentia</l>
+     </titlePart>
+    </docTitle>
+    <docAuthor>Antonius Guilielmus Amo</docAuthor>
+    <docImprint>
+     <date when="1734-04">MDCCXXXIV Mense Aprile</date>
+     <name type="place">Wittebergae</name>
+     Ex Officina Schlomachiana
+    </docImprint>
+   </titlePage>
+  </front>
+  <body>
+   <div n="I" type="capitulum">
+    <head>Continens Declarationes Idearum In Thesi Contentarum</head>
+    <div type="praemonitum">
+     <head>Praemonitum Ad Rubrum Huius Disputationis</head>
+     <p>
+      Per humanae mentis ἀπάθειαν intelligimus: absentiam sensionis et facultatis sentiendi in mente humana.
+      Per ea quae dicuntur. cap. II. m. 1. § I. etc.
+     </p>
+    </div>
+    <div n="I" type="membrum">
+     <head>Continens declarationes idearum subiecti, sive de mente humana in genere et in specie</head>
+     <div type="nota">
+      <head>Nota ad rubrum huius membri.</head>
+      <p>Quia mens humana subiectum quaestionis seu theseos est, operis ratio postulat, ut declaremus quid nam per eandem intelligamus, eum in finem ut positis ideis claris et distinctis felicius res Procedat.</p>
+     </div>
+     <div n="I" type="sectio">
+      <head>Quid Spiritus In Genere?</head>
+      <p>
+       Mens humana in genere est Spirituum, ergo declaratione quadam opus est, quidnam per vocabulum seu denominationem Spiritus intelligamus.
+       Est autem nobis Spiritus: Quaevis substantia mere actuosa, immaterialis, per se semper intelligens, suaque sponte ex intentione operans, propter destinatum et sibi conscium finem.
+      </p>
+      <div n="I" type="nota">
+       <head>Nota I.</head>
+       <p>Intelligere et sibi alicuius rei conscium fieri, sunt Synonyma.</p>
+      </div>
+      <div n="II" type="nota">
+       <head>Nota II.</head>
+       <p>Per intentionem intelligimus; illam spiritus operationem, qua sibi aliquid notum facit, quo exercito finis consequatur.</p>
+      </div>
+      <div n="III" type="nota">
+       <head>Nota III.</head>
+       <p>Finis est, quo adepto et praesente, spiritus a pristina sua operatione cessans adquiescit.</p>
+      </div>
+      <div type="expositiones">
+       <head>Expositiones Praecedentis Mox Descriptionis Spiritus</head>
+       <div n="I" type="expositio">
+        <head>Expositio I.</head>
+        <p> Dico spiritum esse substantiam mere actuosam; quod idem ac si dicas: spiritus nullam in se admittit passionem.</p>
+        <div type="probatio">
+         <head>Probatio huius expositionis.</head>
+         <p>Si spiritus sentire, vel in se pasionem admittere, dicatur hoc fieri deberet aut per communicationem, aut penetrationem, aut denique per contactum.</p>
+         <div n="I" type="nota">
+          <head>Nota. I.</head>
+          <p>Per communicationem intelligo: Quando Partes, proprietates et effectus unius entis, mediante actu quodam, praesentes fiunt in alio ente analogo et apto.</p>
+         </div>
+         <div type="exemplum">
+          <head>Exemplum.</head>
+          <p>Sic ignis suum calorem ferre candenti, quin se ipsum communicare videmus.</p>
+         </div>
+         <div n="II" type="nota">
+          Nota. II. Per penetrationem intelligo: Transitum unius entis per partes entis alterius mediante quodam actu.
+         </div>
+         <div n="III" type="nota">
+          Nota. III. Quid contactus sit, ipsa sensio docet immediata; sed ne verba sine ideis dicta videantur; per contactum intelligimus: Quando duae superficies in puncio aliquo physico seu sensibili se mutuo tangunt.
+         </div>
+         <div type="adplicationes">
+          <head>Adplicationes</head>
+          <div n="I" type="dico">
+           <head>Dico I.</head> <p>Omnem spiritum esse extra omnem passionem.</p>
+           <div n="I" type="ratio">
+            <head>Ratio I.</head> 
+            <p>
+             Nullae partes, proprietates et effectus alterius entis, mediante actu quodam in spiritu fieri possunt praesentes; alias spiritus aliud contineret in sua essentia et substantia, quam continere debet.
+             Item, continere, et contineri sunt conceptus materiales, nec cum veritate de spiritu praedicari possunt.
+             Non igitur spiritus sentit per communicationem i.e. eo modo quo partes, proprietates, et effectus entis materiales, in eodem mediante aliquo actu praesentes fieri debent.
+            </p>
+           </div>
+           <div n="II" type="ratio">
+            <head>Ratio II.</head> 
+            <p>
+             Nullus spiritus per se et per accidens, recipit Partes, proprietates et effectus materiales et sensibiles, contrarie enim opponitur enti sensibili; sed inter contrarie opposita, nulla datur communicatio.
+            </p>
+            <div type="nota">
+             <head>Nota ad hanc rationem.</head>
+             <p>
+              Contrarie oppositae sunt res, quae ita comparatae sunt ut unius absentia alterius praesentiam, alterius praesentia prioris absentiam importet.
+              v.c. Si aliquid est immateriale sequitur quod materiale esse nequeat: sunt enim contrarie opposita, nam praedicatum immaterialitatis excludit praedicatum materialitatis quia praesentia immaterialitatis est absentia materialitatis.
+              Item ubi adest spiritualitas ibi abest materialitas et vice versa.
+             </p>
+            </div>
+           </div>
+           <p>Dixi quod spiritus non sentiat seu patiatur per communicationem, nunc</p>
+          </div>
+          <div n="II" type="dico">
+          <head>Dico II.</head>
+          <p>
+           Nullus spiritus sentit seu patitur per modum penetrationis, quia penetratio est: Transitus entis per partes entis alterius; sed nullus spiritus partibus Constitutivis gaudet.
+           Ergo; extra omnem passionem est, quatenus passio fit permodum penetrationis, sive per transitum per partes entis alterius.
+          </div>
+          <div n="III" type="dico">
+           <head>Dico III.</head>
+           <p>
+            Nec sentit seu patitur per contactum, nam quidquid tangit et tangitur corpus est.
+            vid. Dn. Des Cartes in Epistolis Part. III. Epist. 14. § 12. verbis: primo tibi dicam etc.
+            Item contactus est quando duae superficies in puncto aliquo physico se mutuo tangunt, nec punctum sensibile, neque superficies de spiritu praedicari possunt, ergo neque passio, quatenus fieri debet per contactum.
+           </p>
+          </div> <!-- dico -->
+         </div> <!-- adplicationes -->
+        </div> <!-- probatio -->
+       </div> <!-- expositio -->
+       <div n="II" type="expositio">
+        <head>Expositio II.</head>
+        <p>Spiritus omnis per se semper intelligit, i.e. conscius est sibi sui, suarumque operationum, nec non aliarum rerum.<p>
+        <div type="nota">
+         <head>Nota.</head>
+         <p>
+          Quamvis ignorem illum modum, quo Deus et alii extra materiam spiritus, se, suas operationes aliasque res intelligunt, probabile tamen mihi non uidetur eos intelligere per ideas; eo modo quo idea est: operatio mentis nostrae momentanea, qua res antea sensibus et organis sensoriis perceptas, sibi repraesentat seu praesentes sistit.
+          Carent enim Deus aliique spiritus extra materiam positi, sensionibus organisque sensoriis Corporeque uino et organico.
+          Item, in Deo non datur repraesentatio, nam alias daretur in Deo repraesentatio futuri, praeteriti et rei absentis; Atqui in Deo non datur scientia praeteriti et futuri, nec non absentis; sed in cognitione eius omnia praesentia sunt, ergo nulla in eo datur repraesentatio; quia repraesentatio supponit absentiam rei repracsentandae.
+          Sequitur igitur exinde Deum aliosque spiritus se, suas operationes et alias res intelligere sine omni idealitate sive ideis et sensionibus repetitis, sed mens nostra per ideas et intelligit et operatur, ob arctissimum cum corpore vinculum et commercium.
+          vid. Nobil. Dn. de BERGER in Physiolog. Lib. 1. c. i. pag. 1. et 5. 
+          Dn. Des Cartes sive Cartesius in Epistolis. port. III. Epist. 115. Part. I. Epist. 29. et 36.
+         </p>
+        </div>
+       </div>
+       <div n="III" type="expositio">
+        <head>Expositio III.</head>
+        <p>Omnis spiritus operatur sua sponte i.e. intrinsece, suas operationes determinat ad finem consequendum, nec aliunde absolute cogitur ut operetur.</p>
+        <div type="ratio">
+         <head>Ratio.</head> 
+         <p>
+          Si spiritus aliunde cogatur hoc fieret aut cogente spiritu alio, aut materia.
+          Si spiritu alio, salva manet in utroque spontaneitas seu Libera agendi et reagendi facultas.
+          Si a materia spiritus cogatur, hoc fieri nequit, quia spiritus semper est actuosus, sed materia semper patiens quid, et omnem recipiens actionem in se agentis.
+         </p>
+        </div>
+       </div>
+       <div n="IV" type="expositio">
+        <head>Expositio IV.</head>
+        <p>Spiritus operatur ex intentione i.e. ex praecognitione rei quae fieri debet finisque quem sua operatione consequi intendit.</p>
+        <div type="ratio">
+         <head>Ratio.</head> 
+         <p>In hoc enim consistit natura operationis, entis ratonaliter et ex intelligentia operantis.</p>
+        </div>
+        <div n="I" type="consectarium">
+         <head>Consectarium I.</head>
+         <p>Omnis causa efficiens debet intelligere se ipsum, suas operationes, et rem quae fieri debet.</p>
+        </div>
+        <div n="II" type="consectarium">
+         <head>Consectarium II.</head>
+         <p>Omne ens actuosum in quo datur conscientia sui, suarum operationum et aliarum rerum, illud spiritus est.</p>
+        </div>
+       </div>
+       <div n="V" type="expositio">
+        <head>Expositio V.</head>
+        <p>Spiritus est immaterialis i.e. nihil materiale habet in sua essentia et proprietatibus.</p>
+        <div type="ratio">
+         <head>Ratio.</head> 
+         <p>Contrarie oppositorum unum alterum continere et habere nequit; quia contrarie opposita ab invicem excludunt, genus, speciem et eandem denominationem.</p>
+        </div>
+       </div>
+      </div> <!-- expositiones -->
+     </div>
+     <div n="II" type="sectio">
+      <p>Hactenus de Spiritu ea saltem egimus, quae nostro inserviunt scopo sequitur in sequente.</p>
+     </div>
+     <div n="III" type="sectio">
+      <head>Descriptio Mentis Humanae In Specie.</head>
+      <p>
+       Mens humana est: substantia mere actuosa et immaterialis, commercio corporis vivi et organici cui inest, Intelligens et ex intentione Operans Propter determinatum et sibi conscium finem.
+      </p>
+      <div n="I" type="nota">
+       <head>Nota I.</head>
+       <p>Commercium corporis et mentis consistit in his quod (1) corpore utatur pro subiecto cui inest (2) Pro instrumento suae operationis et medio.</p>
+      </div>
+      <div n="II" type="nota">
+       <head>Nota II.</head>
+       <p>Instrumentum et medium in hoc differunt; instrumentum adplicatur ad finem practice, et medium adhibetur ad finem Theoretice consequendum.</p>
+      </div>
+      <div n="III" type="nota">
+       <head>Nota III.</head>
+       <p>
+        Duae dantur partes essentiales hominis: mens et corpus.
+        De mente dictum est.
+        Ad corpus quod adtinet est: elegantissimum e diversis organis vitalibus et animalibus a creatore primum fabrefactum, et de hinc quoque per generationem propagatum.
+        Sunt verba D. CHRISTIAN. VATER in sua physiolog. Sect. IIX. C. III. de corpore humano Th. I.
+       </p>
+      </div>
+     </div>
+     <div n="IV" type="sectio">
+     </div>
+    </div>
+    <div n="II" type="membrum">
+    </div>
+   </div>
+   <div n="II" type="capitulum">
+   </div>
+  </body>
+ </text>
+</TEI>
